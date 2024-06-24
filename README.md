@@ -11,6 +11,6 @@ In each round, you will be prompted to guess the number within the given range. 
 You earn points based on the number of attempts left after guessing the correct number. The score for each round is calculated as MAX_ATTEMPTS - attempts_taken. Total Score
 Your total score is the sum of scores from all the rounds played. Game Over
 
-After completing the specified number of rounds, the game ends, and your total score is displayed. Customize the Game You can customize the game by adjusting the following constants in the Task2 class:
+After completing the specified number of rounds, the game ends, and your total score is displayed.
 
 MIN: Minimum value for the random number generation. MAX: Maximum value for the random number generation. ATTEMPTS: Maximum attempts allowed to guess the number in each round. ROUNDS: Total number of rounds in the game. Running the Program Compile the Java file (Task1.java). Run the compiled Java program. Contributing Feel free to contribute to this project by creating issues, suggesting improvements, or submitting pull requests. Your contributions are welcomed and appreciated!
